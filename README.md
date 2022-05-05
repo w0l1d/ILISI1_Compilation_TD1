@@ -105,8 +105,8 @@ de ccc ;
 ![image](https://user-images.githubusercontent.com/49680822/166955786-5abd3607-d014-4089-a4e9-85e18c6d1fc5.png)
 
 
-### h) l’ensemble des mots comportant au moins 3 lettres et dont la troisième lettre à partir de la fin est
-un a ou un c ;
+### h) l’ensemble des mots comportant au moins 3 lettres et dont la troisième lettre à partir de la fin est un a ou un c ;
+
 ![image](https://user-images.githubusercontent.com/49680822/166956809-6712d3c6-ae60-4544-97aa-3b3419a12ddf.png)
 
 
