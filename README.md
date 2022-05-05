@@ -61,7 +61,7 @@ les langages suivants :
 
 
 ### Question 3. Ecrivez une expression régulière sur l’alphabet Σ = {a, b} dont le langage associé est exactement l’ensemble des mots qui ne contiennent jamais deux a consécutifs.
-#### 
+#### b*(a(b+a)*b*)?
 
 
 
