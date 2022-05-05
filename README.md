@@ -26,8 +26,7 @@ blanc et qu’une chaine est composée d’un seul message.
 
 ## Exercice 3 : Donner une expression régulière ainsi qu'un automate déterministe qui représentent
 les langages suivants :
-### Question 1 : Donner une expression régulière ainsi qu'un automate déterministe qui représentent
-les langages suivants :
+### Question 1 : Donner une expression régulière ainsi qu'un automate déterministe qui représentent les langages suivants :
 
 #### a) L = { m | m ∈ {a, b}* et m contient ‘ba’ comme sous-mot }
 ![image](https://user-images.githubusercontent.com/49680822/166959176-4b1af8de-fc1b-44ba-ad55-43c7a1e05e06.png)
@@ -57,12 +56,14 @@ les langages suivants :
 
 
 
-### Question 2. Ecrivez une expression régulière sur l’alphabet Σ = {a, b, c} dont le langage associé est
-exactement l’ensemble des mots ou a est toujours suivi de b et b est toujours suivi de a, sauf
-éventuellement pour le dernier symbole du mot.
+### Question 2. Ecrivez une expression régulière sur l’alphabet Σ = {a, b, c} dont le langage associé est exactement l’ensemble des mots ou a est toujours suivi de b et b est toujours suivi de a, sauf éventuellement pour le dernier symbole du mot.
+#### c*(b|a|(a|ba)(ba)*b?)?
 
-### Question 3. Ecrivez une expression régulière sur l’alphabet Σ = {a, b} dont le langage associé est
-exactement l’ensemble des mots qui ne contiennent jamais deux a consécutifs.
+
+### Question 3. Ecrivez une expression régulière sur l’alphabet Σ = {a, b} dont le langage associé est exactement l’ensemble des mots qui ne contiennent jamais deux a consécutifs.
+#### 
+
+
 
 ### Question 4. Est-ce que les expressions régulières suivantes contiennent le mot vide ε ?
 #### - (a+ba*)*+b(a+(b+aba)*)*
