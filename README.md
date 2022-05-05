@@ -115,6 +115,8 @@ un a ou un c ;
 ## Exercice 5. Déterminiser l’automate suivant :
 ![image](https://user-images.githubusercontent.com/49680822/166952094-66120544-6b53-45ef-91d6-d9f760f49358.png)
 
+![image](https://user-images.githubusercontent.com/49680822/166983257-90db154a-176e-4c65-94b7-4b73474e35c8.png)
+
 
 
 ## Exercice 6. Construire l’automate fini correspondant aux expressions régulières suivantes.
