@@ -76,7 +76,7 @@ les langages suivants :
 ##### Non
 
 #### - (a+ (b+ (c+d)*)*)*
-##### Non
+##### oui
 
 
 ## Exercice 4. Soit A = {a, b, c}. Pour chacun des langages suivants, donner un automate fini
